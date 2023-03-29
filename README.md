@@ -1,0 +1,1 @@
+# determination_of_coordinates
