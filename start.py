@@ -1,38 +1,56 @@
+import webbrowser
+
 from pygeoguz.simplegeo import pgz
 from pygeoguz.objects import Point2D, Line2D, PointBL
 from pygeoguz.transform import xy2bl, bl2xy
+from plot_and_map import plt
+
 
 # Входные данные
-dLat = 55.752  # Широта (положительная для северного полушария)
-dLon = 37.618  # Долгота (положительная для восточного полушария)
-length = 10000  # [м]
-direction = 140  # [deg]
+dLat = 55.749979  # Широта (положительная для северного полушария)
+dLon = 37.620953  # Долгота (положительная для восточного полушария)
+length = 71  # [м]
+direction = 85  # [deg]
 
 # Геодезическая СК --> Плоская прямоугольная СК
 p1 = PointBL(b=dLat, l=dLon)
-xy = bl2xy(point=p1)
-print('X1:', xy.x)
-print('Y1:', xy.y)
-
+xy1 = bl2xy(point=p1)
 
 # Прямая геодезическая задача
-p2 = Point2D(x=xy.x, y=xy.y)
+p2 = Point2D(x=xy1.x, y=xy1.y)
 line = Line2D(length=length, direction=direction)
 xy2 = pgz(point=p2, line=line)
-print('X2:', xy2.x)
-print('Y2:', xy2.y)
-
-
-latLon = xy2bl(point=p2)
-print('Долгота1:', latLon.b)
-print('Широта1:', latLon.l)
 
 # Плоская прямоугольная СК --> Геодезическая СК
-latLon = xy2bl(point=xy2)
-print('Долгота2:', latLon.b)
-print('Широта2:', latLon.l)
+latLon1 = xy2bl(point=p2)
+
+# Плоская прямоугольная СК --> Геодезическая СК
+latLon2 = xy2bl(point=xy2)
 
 
+print('-----------------------------------')
+print('Точка 1 в прямоугольных координатах')
+print('-----------------------------------')
+print('X1:', xy1.x)
+print('Y1:', xy1.y)
+print('-----------------------------------')
+print('Точка 2 в прямоугольных координатах')
+print('-----------------------------------')
+print('X2:', xy2.x)
+print('Y2:', xy2.y)
+print('-----------------------------------')
+print('Точка 1 в географических координатах')
+print('-----------------------------------')
+print('Широта1:', latLon1.b)
+print('Долгота1:', latLon1.l)
+print('-----------------------------------')
+print('Точка 2 в географических координатах')
+print('-----------------------------------')
+print('Широта2:', latLon2.b)
+print('Долгота2:', latLon2.l)
+
+plt.show()
+webbrowser.open('map.html')
 
 
 
