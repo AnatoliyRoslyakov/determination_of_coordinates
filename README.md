@@ -39,3 +39,13 @@
 * Широта: 55.75004719261117
 * Долгота: 37.62207705809647
 
+<h1 align="center"><img src="https://media.tenor.com/4NKYe36DcE8AAAAi/taclan-world.gif" width="30" /> Решение обратной геодезической задачи <img src="https://media.tenor.com/4NKYe36DcE8AAAAi/taclan-world.gif" width="30" /></h1>
+
+### Нахождение направления и расстояния от точки-1 до точки 2, по:  
+* координатам точке-1,
+* координатам точки-2,
+
+За основу была взята библиотека: **pygeoguz**
+
+<h2 align="center">Выполнение работы программы</h2>
+
