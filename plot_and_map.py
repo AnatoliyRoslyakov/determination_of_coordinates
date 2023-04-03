@@ -1,14 +1,15 @@
-from matplotlib.patches import Circle
 import math
+
 import folium
-import webbrowser
 import matplotlib.pyplot as plt
+from matplotlib.patches import Circle
 
 from start import length, xy1, xy2, latLon1, latLon2
 
 # Построение графика
 fig, ax = plt.subplots()
 ax.set_aspect('equal')
+
 # Окружность с градусами
 R = length
 circle = Circle((xy1.x, xy1.y), R, fill=False, linestyle='dashed', linewidth=1, color='green',)

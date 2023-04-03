@@ -1,8 +1,8 @@
-import webbrowser
-
 from pygeoguz.simplegeo import pgz
 from pygeoguz.objects import Point2D, Line2D, PointBL
 from pygeoguz.transform import xy2bl, bl2xy
+import webbrowser
+
 from plot_and_map import plt
 
 
