@@ -1,17 +1,30 @@
-from matplotlib.patches import Circle
 import math
-import folium
-import webbrowser
-import matplotlib.pyplot as plt
 
-from start import length, xy1, xy2, latLon1, latLon2
+import folium
+import matplotlib.pyplot as plt
+from matplotlib.patches import Circle
+
+from start import length, xy1, xy2, dLat1, dLon1, dLat2, dLon2
 
 # Построение графика
 fig, ax = plt.subplots()
 ax.set_aspect('equal')
 # Окружность с градусами
 R = length
-circle = Circle((xy1.x, xy1.y), R, fill=False, linestyle='dashed', linewidth=1, color='green',)
+circle = Circle((xy1.x, xy1.y), R, fill=False, linestyle='dashed', linewidth=1, color='green')
+
+circle2 = Circle((xy1.x, xy1.y), 5, fill=True, linestyle='dashed', linewidth=1, color='red')
+
+colorR = (1, 0, 0, 0.5)
+colorG = (0, 1, 0, 0.5)
+
+if R >= 5:
+    circle2.set_facecolor(colorR)
+else:
+    circle2.set_facecolor(colorG)
+
+
+ax.add_patch(circle2,)
 ax.add_patch(circle,)
 for degree in range(0, 361, 10):
     x = xy1.x + (R * math.cos(math.radians(degree)))
@@ -37,15 +50,16 @@ ax.set_ylabel('Y, m')
 
 
 # Создание карты
-m = folium.Map(location=[latLon1.b, latLon1.l], zoom_start=50)
+m = folium.Map(location=[dLat1, dLon1], zoom_start=50)
 
 # Добавление маркеров для точек
-folium.Marker(location=[latLon1.b, latLon1.l], tooltip='Точка 1', icon=folium.Icon(color='blue')).add_to(m)
-folium.Marker(location=[latLon2.b, latLon2.l], tooltip='Точка 2', icon=folium.Icon(color='red')).add_to(m)
+folium.Marker(location=[dLat1, dLon1], tooltip='Точка 1', icon=folium.Icon(color='blue')).add_to(m)
+folium.Marker(location=[dLat2, dLon2], tooltip='Точка 2', icon=folium.Icon(color='red')).add_to(m)
 
 # Добавление линии между точками
-folium.PolyLine(locations=[[latLon1.b, latLon1.l], [latLon2.b, latLon2.l]], color='red').add_to(m)
+folium.PolyLine(locations=[[dLat1, dLon1], [dLat2, dLon2]], color='red').add_to(m)
 
 # Отображение карты
 m
 m.save('map.html')
+

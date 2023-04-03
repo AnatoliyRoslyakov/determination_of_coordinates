@@ -1,10 +1,10 @@
+
 import webbrowser
-
-from pygeoguz.simplegeo import pgz
 from pygeoguz.objects import Point2D, Line2D, PointBL
+from pygeoguz.simplegeo import pgz
 from pygeoguz.transform import xy2bl, bl2xy
-from plot_and_map import plt
 
+from direct_geodetic_task.plot_and_map import plt
 
 # Входные данные
 dLat = 55.749979  # Широта (положительная для северного полушария)
@@ -50,9 +50,7 @@ print('Широта2:', latLon2.b)
 print('Долгота2:', latLon2.l)
 
 plt.show()
-webbrowser.open('map.html')
-
-
+webbrowser.open('../map.html')
 
 
 # https://pypi.org/project/pygeoguz/ <-- прямая/обратная геодезическая задача
