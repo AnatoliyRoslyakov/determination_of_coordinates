@@ -49,7 +49,7 @@
 
 <h2 align="center">Выполнение работы программы</h2>
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/91376345/229595743-80f9d257-3935-4538-b30f-65475aa04833.png" width="400" /><img src="https://user-images.githubusercontent.com/91376345/229595784-e824fc6c-ba87-43eb-be37-6a960609f4be.png" width="440"/></h2>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/91376345/229595743-80f9d257-3935-4538-b30f-65475aa04833.png" width="380" /><img src="https://user-images.githubusercontent.com/91376345/229595784-e824fc6c-ba87-43eb-be37-6a960609f4be.png" width="420"/></h2>
 
 ### Точка 1 в географических координатах
 * Широта: 55.749979
