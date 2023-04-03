@@ -1,10 +1,12 @@
-from pygeoguz.simplegeo import pgz
-from pygeoguz.objects import Point2D, Line2D, PointBL
-from pygeoguz.transform import xy2bl, bl2xy
+import pathlib
 import webbrowser
+from pathlib import Path
 
-from plot_and_map import plt
+from pygeoguz.objects import Point2D, Line2D, PointBL
+from pygeoguz.simplegeo import pgz
+from pygeoguz.transform import xy2bl, bl2xy
 
+from direct_geodetic_task.plot_and_map import plt
 
 # Входные данные
 dLat = 55.749979  # Широта (положительная для северного полушария)
@@ -27,7 +29,6 @@ latLon1 = xy2bl(point=p2)
 # Плоская прямоугольная СК --> Геодезическая СК
 latLon2 = xy2bl(point=xy2)
 
-
 print('-----------------------------------')
 print('Точка 1 в прямоугольных координатах')
 print('-----------------------------------')
@@ -49,11 +50,8 @@ print('-----------------------------------')
 print('Широта2:', latLon2.b)
 print('Долгота2:', latLon2.l)
 
+dir_path = pathlib.Path.cwd()
+path = Path(dir_path, 'map.html')
+
 plt.show()
-webbrowser.open('map.html')
-
-
-
-
-# https://pypi.org/project/pygeoguz/ <-- прямая/обратная геодезическая задача
-# https://www.latlong.ru/sk.php <-- проверка
+webbrowser.open(str(path))  # <-- Вставить ссылку к файлу

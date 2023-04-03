@@ -50,3 +50,4 @@ folium.PolyLine(locations=[[latLon1.b, latLon1.l], [latLon2.b, latLon2.l]], colo
 # Отображение карты
 m
 m.save('map.html')
+
