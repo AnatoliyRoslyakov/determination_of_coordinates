@@ -1,0 +1,1348 @@
+('C:\\Users\\rosli\\OneDrive\\Рабочий '
+ 'стол\\direct_geo_task\\build\\start\\start.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\build\\start\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\build\\start\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\build\\start\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\build\\start\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\build\\start\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\build\\start\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_mplconfig',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_mplconfig.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('start',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий стол\\direct_geo_task\\start.py',
+   'PYSOURCE'),
+  ('plot_and_map',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий стол\\direct_geo_task\\plot_and_map.py',
+   'PYSOURCE'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('python39.dll',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\python39.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('libopenblas64__v0.3.21-gcc_10_3_0.dll',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\numpy\\.libs\\libopenblas64__v0.3.21-gcc_10_3_0.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('markupsafe\\_speedups.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\markupsafe\\_speedups.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('matplotlib\\backends\\_backend_agg.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\backends\\_backend_agg.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('matplotlib\\ft2font.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\ft2font.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\PIL\\_webp.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\PIL\\_imagingtk.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\PIL\\_imagingcms.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\PIL\\_imaging.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kiwisolver\\_cext.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\kiwisolver\\_cext.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\_tri.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\_tri.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\_qhull.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\_qhull.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_tests.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\numpy\\core\\_multiarray_tests.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_umath.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\numpy\\core\\_multiarray_umath.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\lapack_lite.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\numpy\\linalg\\lapack_lite.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('contourpy\\_contourpy.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\contourpy\\_contourpy.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\_image.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\_image.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\_path.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\_path.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('matplotlib\\_c_internal_utils.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\_c_internal_utils.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\numpy\\random\\mtrand.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\numpy\\random\\_sfc64.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\numpy\\random\\_philox.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\numpy\\random\\_pcg64.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\numpy\\random\\_mt19937.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\numpy\\random\\bit_generator.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\numpy\\random\\_generator.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\numpy\\random\\_bounded_integers.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\numpy\\random\\_common.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_internal.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\numpy\\fft\\_pocketfft_internal.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\charset_normalizer\\md__mypyc.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp39-win_amd64.pyd',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\charset_normalizer\\md.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-private-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\api-ms-win-crt-private-l1-1-0.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('matplotlib.libs\\msvcp140-e78ebc24b6ffa690be9375aacad743a7.dll',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib.libs\\msvcp140-e78ebc24b6ffa690be9375aacad743a7.dll',
+   'BINARY'),
+  ('MSVCP140.dll',
+   'C:\\Program Files\\Microsoft\\jdk-11.0.12.7-hotspot\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\rosli\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\build\\start\\base_library.zip',
+   'DATA'),
+  ('matplotlib\\mpl-data\\matplotlibrc',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\matplotlibrc',
+   'DATA'),
+  ('folium\\templates\\tiles\\stamentonerbackground\\tiles.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\stamentonerbackground\\tiles.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\forward_large.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\forward_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralItalic.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralItalic.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\filesave.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\embedding_in_wx3.xrc',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\embedding_in_wx3.xrc',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\axes_grid\\bivariate_normal.npy',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\axes_grid\\bivariate_normal.npy',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\putbi8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\putbi8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\putr8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\putr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvbo8an.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvbo8an.afm',
+   'DATA'),
+  ('certifi\\py.typed',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmtt10.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmtt10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-Bold.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-Bold.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\move.pdf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\move.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\move.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\move.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\home-symbolic.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\home-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniBolIta.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniBolIta.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-pastel.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-pastel.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-muted.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-muted.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\_classic_test_patch.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\_classic_test_patch.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvr8an.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvr8an.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-Bold.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-Bold.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmb10.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmb10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\s1045.ima.gz',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\s1045.ima.gz',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\help.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\help.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\back.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\back.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-whitegrid.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-whitegrid.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\zoom_to_rect-symbolic.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect-symbolic.svg',
+   'DATA'),
+  ('folium\\templates\\tiles\\openstreetmap\\attr.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\openstreetmap\\attr.txt',
+   'DATA'),
+  ('branca\\scheme_base_codes.json',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\branca\\scheme_base_codes.json',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmex10.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmex10.ttf',
+   'DATA'),
+  ('folium\\templates\\tiles\\cartodbdark_matter\\attr.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\cartodbdark_matter\\attr.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerifDisplay.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerifDisplay.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmss10.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmss10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\ZapfDingbats.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\ZapfDingbats.afm',
+   'DATA'),
+  ('branca\\templates\\color_scale.js',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\branca\\templates\\color_scale.js',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizTwoSymBol.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizTwoSymBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-darkgrid.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-darkgrid.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\matplotlib_large.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\subplots-symbolic.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizTwoSymReg.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizTwoSymReg.ttf',
+   'DATA'),
+  ('folium\\templates\\tiles\\cartodbpositronnolabels\\tiles.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\cartodbpositronnolabels\\tiles.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralBolIta.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralBolIta.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-talk.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-talk.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\goog.npz',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\goog.npz',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvb8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizOneSymReg.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizOneSymReg.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\eeg.dat',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\eeg.dat',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\filesave.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\subplots.pdf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\matplotlib.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica.afm',
+   'DATA'),
+  ('folium\\templates\\pa7_hm.min.js',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\pa7_hm.min.js',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\back.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\back.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\qt4_editor_options.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-dark-palette.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-dark-palette.mplstyle',
+   'DATA'),
+  ('folium\\templates\\tiles\\stamentoner\\tiles.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\stamentoner\\tiles.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\kpsewhich.lua',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\kpsewhich.lua',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvl8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvl8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\ggplot.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\ggplot.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pcrb8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pcrb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pcrr8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pcrr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\ptmbi8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\ptmbi8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\help.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\help.png',
+   'DATA'),
+  ('branca\\_schemes.json',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\branca\\_schemes.json',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\home.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\home.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFiveSymReg.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFiveSymReg.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\zoom_to_rect.pdf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvb8an.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvb8an.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\back.pdf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\back.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFourSymReg.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFourSymReg.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\home.pdf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\home.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\subplots.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pagko8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pagko8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pncbi8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pncbi8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-Oblique.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-Oblique.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\cmsy10.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\cmsy10.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\forward-symbolic.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\forward-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\qt4_editor_options.pdf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\jacksboro_fault_dem.npz',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\jacksboro_fault_dem.npz',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-BoldOblique.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-BoldOblique.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvlo8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvlo8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\cmtt10.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\cmtt10.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\percent_bachelors_degrees_women_usa.csv',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\percent_bachelors_degrees_women_usa.csv',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\fast.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\fast.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-Oblique.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-Oblique.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pbkli8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pbkli8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\back_large.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\back_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-paper.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-paper.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-white.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-white.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Italic.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Italic.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pncr8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pncr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\forward.pdf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\forward.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\home_large.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\home_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\subplots.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\zoom_to_rect_large.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pplri8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pplri8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\ptmri8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\ptmri8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\topobathy.npz',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\topobathy.npz',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pcrro8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pcrro8a.afm',
+   'DATA'),
+  ('folium\\templates\\fit_bounds.js',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\fit_bounds.js',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\tableau-colorblind10.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\tableau-colorblind10.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\classic.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\classic.mplstyle',
+   'DATA'),
+  ('folium\\templates\\tiles\\cartodbpositrononlylabels\\attr.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\cartodbpositrononlylabels\\attr.txt',
+   'DATA'),
+  ('folium\\templates\\tiles\\stamenwatercolor\\tiles.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\stamenwatercolor\\tiles.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-Oblique.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-Oblique.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizThreeSymBol.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizThreeSymBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\Solarize_Light2.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\Solarize_Light2.mplstyle',
+   'DATA'),
+  ('folium\\templates\\tiles\\stamentonerbackground\\attr.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\stamentonerbackground\\attr.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\fivethirtyeight.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\fivethirtyeight.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pagdo8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pagdo8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\cmr10.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\cmr10.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\filesave_large.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave_large.png',
+   'DATA'),
+  ('branca\\scheme_info.json',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\branca\\scheme_info.json',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmsy10.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmsy10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\forward.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\forward.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\hand.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\hand.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\qt4_editor_options_large.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pncb8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pncb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\putb8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\putb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralBol.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\grayscale.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\grayscale.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Roman.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Roman.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-BoldOblique.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-BoldOblique.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\help.pdf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\help.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pagd8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pagd8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniBol.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-Italic.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-Italic.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvro8an.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvro8an.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\ptmb8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\ptmb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvr8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-poster.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-poster.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\grace_hopper.jpg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\grace_hopper.jpg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\psyr.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\psyr.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizThreeSymReg.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizThreeSymReg.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-BoldItalic.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-BoldItalic.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\forward.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\forward.png',
+   'DATA'),
+  ('branca\\_cnames.json',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\branca\\_cnames.json',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\filesave.pdf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave.pdf',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\logo2.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\logo2.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pplb8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pplb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\help_large.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\help_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\Stocks.csv',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\Stocks.csv',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-Bold.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-Bold.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFourSymBol.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFourSymBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\move_large.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\move_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-BoldOblique.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-BoldOblique.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\home.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\home.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pplbi8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pplbi8a.afm',
+   'DATA'),
+  ('folium\\templates\\tiles\\stamenterrain\\attr.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\stamenterrain\\attr.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pagk8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pagk8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\data_x_x2_x3.csv',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\data_x_x2_x3.csv',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\hand.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\hand.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizOneSymBol.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizOneSymBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pbkl8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pbkl8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\_mpl-gallery-nogrid.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\_mpl-gallery-nogrid.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\LICENSE_DEJAVU',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\LICENSE_DEJAVU',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-BoldOblique.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-BoldOblique.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\readme.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\readme.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Bold.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Bold.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneral.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneral.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmmi10.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmmi10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\_mpl-gallery.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\_mpl-gallery.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-BoldItalic.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-BoldItalic.afm',
+   'DATA'),
+  ('folium\\templates\\tiles\\cartodbpositron\\attr.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\cartodbpositron\\attr.txt',
+   'DATA'),
+  ('folium\\templates\\tiles\\stamenterrain\\tiles.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\stamenterrain\\tiles.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\zoom_to_rect.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\msft.csv',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\msft.csv',
+   'DATA'),
+  ('folium\\templates\\tiles\\stamentonerlabels\\tiles.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\stamentonerlabels\\tiles.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\matplotlib.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\plot_directive\\plot_directive.css',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\plot_directive\\plot_directive.css',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-deep.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-deep.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pbkd8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pbkd8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvro8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvro8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\membrane.dat',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\membrane.dat',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\cmex10.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\cmex10.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\hand.pdf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\hand.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvbo8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvbo8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\README.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\README.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Symbol.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Symbol.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\bmh.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\bmh.mplstyle',
+   'DATA'),
+  ('folium\\templates\\tiles\\cartodbpositrononlylabels\\tiles.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\cartodbpositrononlylabels\\tiles.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-colorblind.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-colorblind.mplstyle',
+   'DATA'),
+  ('folium\\templates\\tiles\\stamentonerlabels\\attr.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\stamentonerlabels\\attr.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\dark_background.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\dark_background.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pbkdi8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pbkdi8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\cmmi10.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\cmmi10.afm',
+   'DATA'),
+  ('folium\\templates\\tiles\\cartodbdark_matter\\tiles.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\cartodbdark_matter\\tiles.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\ptmr8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\ptmr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\putri8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\putri8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pplr8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pplr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pzcmi8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pzcmi8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\filesave-symbolic.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-bright.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-bright.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-Bold.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-Bold.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmr10.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmr10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\LICENSE_STIX',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\LICENSE_STIX',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-dark.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-dark.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-ticks.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-ticks.mplstyle',
+   'DATA'),
+  ('folium\\templates\\tiles\\cartodbpositron\\tiles.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\cartodbpositron\\tiles.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\subplots_large.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\matplotlib.pdf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniIta.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniIta.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-Bold.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-Bold.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pcrbo8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pcrbo8a.afm',
+   'DATA'),
+  ('folium\\templates\\tiles\\stamentoner\\attr.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\stamentoner\\attr.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\qt4_editor_options.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options.svg',
+   'DATA'),
+  ('folium\\templates\\tiles\\openstreetmap\\tiles.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\openstreetmap\\tiles.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-notebook.mplstyle',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-notebook.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\help-symbolic.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\help-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUni.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUni.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\move-symbolic.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\move-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\move.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\move.png',
+   'DATA'),
+  ('folium\\templates\\tiles\\stamenwatercolor\\attr.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\stamenwatercolor\\attr.txt',
+   'DATA'),
+  ('folium\\templates\\pa7_leaflet_hm.min.js',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\pa7_leaflet_hm.min.js',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\back-symbolic.svg',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\back-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pzdr.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pzdr.afm',
+   'DATA'),
+  ('folium\\templates\\tiles\\cartodbpositronnolabels\\attr.txt',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\tiles\\cartodbpositronnolabels\\attr.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansDisplay.ttf',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansDisplay.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\Minduka_Present_Blue_Pack.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\Minduka_Present_Blue_Pack.png',
+   'DATA'),
+  ('folium\\templates\\leaflet_heat.min.js',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\folium\\templates\\leaflet_heat.min.js',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-Oblique.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-Oblique.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pncri8a.afm',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pncri8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\zoom_to_rect.png',
+   'C:\\Users\\rosli\\OneDrive\\Рабочий '
+   'стол\\direct_geo_task\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect.png',
+   'DATA')],
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
